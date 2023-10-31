@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @jerin-joseph
-- 👀 I’m interested in web, progressive web apps and machine learning
-- 🌱 I’m currently learning reactjs, machine learning 
-- 💞️ I’m looking to collaborate on fun-to-do projects
-- 📫 Reach me via jerinjoseph@live.com/123jerin@gmail.com or via my website jerin.rsoclabs.com
+- 📫 Reach me via jerinjoseph@live.com or 123jerin@gmail.com
 
 <!---
 jerin-joseph/jerin-joseph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
